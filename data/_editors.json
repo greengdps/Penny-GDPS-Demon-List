@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Yoink",
+        "link": "https://www.youtube.com/@yyoinkgd"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ProjectGD",
+        "link": "https://www.youtube.com/@ProjectGeometryYT"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "No One Yet",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "No One Yet",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Yoink",
+        "link": "https://www.youtube.com/@yyoinkgd"
     }
 ]
